@@ -1,0 +1,8 @@
+
+
+For adding a new file,
+
+git add <file>
+git commit -m <message>
+git push 
+
